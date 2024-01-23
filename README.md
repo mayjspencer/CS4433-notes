@@ -62,7 +62,22 @@ the optimal cost is c′x* = − ∞.
 Convert any constrain into this form. 
 a′i x ≥ bi
 
+## Compact Form
+min c′x
+subj Ax ≥ b
 
+## Standard Form
+min c′x
+subj Ax = b
+x ≥ 0
+
+## Summary
+• General Form: No restrictions on the type of constraints.
+• Simple Form: All the constraints are in a′i x ≥ bi format.
+• Compact (Matrix) Form: All elements of the objective functions and constraints are
+vectors and matrices.
+• Standard Form: All the variables are positive and all the constraints are equality
+constraints.
 
 
 
