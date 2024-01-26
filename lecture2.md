@@ -52,7 +52,7 @@ ith unit vector = ei is the vector with all components equal to zero except ith
 Choose values of decision variables such that they minimize the linear cost function
 subject to a set of linear equality and inequality constraints
 
-![Image 1]([[https://github.com/mayjspencer/CS4433-notes/blob/main/Screen%20Shot%202024-01-26%20at%202.44.41%20PM.png?raw=true]])
+![Image 1](https://github.com/mayjspencer/CS4433-notes/blob/main/Screen%20Shot%202024-01-26%20at%202.44.41%20PM.png?raw=true)
 
 2x1 − x2 + 4x3 is the cost function 
 
