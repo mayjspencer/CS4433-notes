@@ -60,10 +60,22 @@ can be written as ∑4-i=1 ci xi, where c = (2, − 1,4,0) and x = (x1 , x2 , x3
 
 c = cost vector, x is decision vector
 
+3x2 − x3 = 5 is a constraint, which can be written as ∑4i=1 ai xi = b
+
+a is called the constraint Vector and b is called the constraint scalar
+
+a = (0,3, − 1,0) b = 5
+
+x1 is a feasible solution if it satisfies all the constraints
+
+c'x1 is the cost of a feasible solution.
+
 x2 and x4 are free variables cause they don't have sign constraints
 
 ## General Form
 all linear programming problems are a case of these forms
+
+![Image 1](https://github.com/mayjspencer/CS4433-notes/blob/main/Screen%20Shot%202024-01-26%20at%202.56.00%20PM.png?raw=true)
 
 min c′x
 
@@ -92,15 +104,23 @@ the optimal cost is c′x* = − ∞.
 ## Simple Form
 Convert any constrain into this form. 
 a′i x ≥ bi
+![Image 1](https://github.com/mayjspencer/CS4433-notes/blob/main/Screen%20Shot%202024-01-26%20at%202.56.12%20PM.png?raw=true)
 
 ## Compact Form
 min c′x
 subj Ax ≥ b
+![Image 1](https://github.com/mayjspencer/CS4433-notes/blob/main/Screen%20Shot%202024-01-26%20at%202.56.23%20PM.png?raw=true)
 
 ## Standard Form
 min c′x
 subj Ax = b
 x ≥ 0
+![Image 1](https://github.com/mayjspencer/CS4433-notes/blob/main/Screen%20Shot%202024-01-26%20at%202.56.41%20PM.png?raw=true)
+
+- Elimination of non positive and free Variables
+
+- Elimination of Inequality Constraints
+        must have slack variable
 
 ## Summary
 • General Form: No restrictions on the type of constraints.
