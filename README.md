@@ -1,5 +1,4 @@
-# Optimization-notes
-# Chapter 2
+# Optimization Notes Chapter 2
 
 ## Sets + Notations
 x ∈ S  ,  x is an element of S
