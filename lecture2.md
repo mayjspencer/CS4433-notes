@@ -103,17 +103,23 @@ the optimal cost is c′x* = − ∞.
 
 ## Simple Form
 Convert any constrain into this form. 
+
 a′i x ≥ bi
+
 ![Image 1](https://github.com/mayjspencer/CS4433-notes/blob/main/Screen%20Shot%202024-01-26%20at%202.56.12%20PM.png?raw=true)
 
 ## Compact Form
 min c′x
+
 subj Ax ≥ b
+
 ![Image 1](https://github.com/mayjspencer/CS4433-notes/blob/main/Screen%20Shot%202024-01-26%20at%202.56.23%20PM.png?raw=true)
 
 ## Standard Form
 min c′x
+
 subj Ax = b
+
 x ≥ 0
 ![Image 1](https://github.com/mayjspencer/CS4433-notes/blob/main/Screen%20Shot%202024-01-26%20at%202.56.41%20PM.png?raw=true)
 
