@@ -1,4 +1,4 @@
-# Optimization Notes Chapter 2
+# Optimization Notes Lecture 2
 
 ## Sets + Notations
 x ∈ S  ,  x is an element of S
@@ -52,11 +52,13 @@ ith unit vector = ei is the vector with all components equal to zero except ith
 Choose values of decision variables such that they minimize the linear cost function
 subject to a set of linear equality and inequality constraints
 
+![Image 1]([[https://github.com/mayjspencer/CS4433-notes/blob/main/Screen%20Shot%202024-01-26%20at%202.44.41%20PM.png?raw=true]])
+
 2x1 − x2 + 4x3 is the cost function 
 
 can be written as ∑4-i=1 ci xi, where c = (2, − 1,4,0) and x = (x1 , x2 , x3 , x4 )
 
-c = cost vector, x is decision variable
+c = cost vector, x is decision vector
 
 x2 and x4 are free variables cause they don't have sign constraints
 
