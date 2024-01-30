@@ -3,7 +3,7 @@
 ## Table of Contents
 
 ### Chapter 1 - Introduction
-Lectures 1 - 3
+Lectures 1 - 4
 
 ### Chapter 2 - The Geometry of Linear Programming
 
