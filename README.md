@@ -6,6 +6,7 @@
 Lectures 1 - 5
 
 ### Chapter 2 - The Geometry of Linear Programming
+Lectures 6 - 
 
 ### Chapter 3 - The Simplex Method
 
